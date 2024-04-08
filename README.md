@@ -1,1 +1,0 @@
-# PlataformaCursosTIC_Tailwind
